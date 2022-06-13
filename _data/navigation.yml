@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Work Experience"
+    url: /Work_Experience/
+  - title: "Volunteer Efforts"
+    url: /Volunteer/
+  - title: "Side Projects"
+    url: /Projects/
+  - title: "Blog Posts"
+    url: /year-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
