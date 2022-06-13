@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Leah Zulas"
+title                    : "Palouse Suidice Prevention"
 title_separator          : "-"
-subtitle                 : "A data scientist"
+subtitle                 : ""
 name                     : &name ""
 description              : &description "A resume for a machine learning and data scientist."
-url                      : https://alzulas.com
+url                      :
 baseurl                  : "/"
-repository               : "alzulas/alzulas.github.io"
+repository               : "whitmansuicideprevention.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : *name
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I work in Data Science, Applied Machine Learning, or Quantitative User Experience Research. I have years of experience in statistical analysis and this has helped me a great deal when working with machine learning algorithms. I would love to continue working with smart homes, tablets, wearable, or mobile devices, however I have found that so long as the questions being asked and the data being analyzed are interesting, nothing else matters."
+  bio              : ""
   location         : "Washington State"
   email            :
   links:
