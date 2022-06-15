@@ -109,7 +109,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:alzulas@alzulas.com"
+      url: "mailto:whitmansuicideprevention@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://alzulas.com"
@@ -118,10 +118,10 @@ author:
       # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/alzulas"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/alzulas/"
+      url: "https://github.com/WhitmanSuicidePrevention/WhitmanSPWebsite"
+    #- label: "LinkedIn"
+  #    icon: "fab fa-fw fa-linkedin"
+  #    url: "https://www.linkedin.com/in/alzulas/"
 
 # Site Footer
 footer:
@@ -131,15 +131,15 @@ footer:
       # url:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:alzulas@alzulas.com"
+      url: "mailto:whitmansuicideprevention@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/alzulas"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/alzulas/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/WhitmanSuicidePrevention/WhitmanSPWebsite"
+    #- label: "LinkedIn"
+    #  icon: "fab fa-fw fa-linkedin"
+    #  url: "https://www.linkedin.com/in/alzulas/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
       # url:
 
 
